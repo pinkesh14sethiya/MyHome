@@ -1,0 +1,4 @@
+node_modules
+/server/.env
+mongodb-database-tools-macos-arm64-100.7.5
+mongodb-database-tools-macos-arm64-100.7.5.zip
